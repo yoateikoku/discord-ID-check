@@ -49,10 +49,10 @@ pip install aiohttp
 
 ## Usage
 
-Run the script directly from your terminal:
+Run `Main.py` directly from your terminal:
 
 ```bash
-python id_check.py
+python Main.py
 ```
 
 Follow the interactive prompts:
